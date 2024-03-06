@@ -1,0 +1,13 @@
+{
+  "name": "teatesnet",
+  "version": "1.0.1",
+  "description": "sy mw jp hard",
+  "main": "index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aangsetyat/project-menghdeh.git"
+  },
+  "author": "aangsetyat",
+  "license": "ISC"
+}
